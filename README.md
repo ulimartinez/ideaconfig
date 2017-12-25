@@ -1,0 +1,2 @@
+# ideaconfig
+idea configuration repository
