@@ -1,0 +1,5 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+</keymap>
